@@ -4,7 +4,3 @@ pandas
 numpy
 sklearn.preprocessing
 PolynomialRegression
-streamlit~=1.0.0
-pandas~=1.3.3
-numpy~=1.21.2
-scikit-learn~=1.0
