@@ -1,1 +1,1 @@
-###Salary Prediction Model - Using Polynomial Regresssion
+Salary Prediction Model - Using Polynomial Regresssion
